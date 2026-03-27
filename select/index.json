@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "Red",
+  "base_artist": "SiM",
+  "createdAt": "2026-03-27T07:15:18.976617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Red (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Red_(Taylor's_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Velvet Red - Never Will: Live From A Distance",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/02_Velvet_Red_-_Never_Will__Live_From_A_Distance_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Velvet Red (Never Will: Live From A Distance)",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/03_Velvet_Red_(Never_Will__Live_From_A_Distance)_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red Smoke",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Red_Smoke_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blood Red And Goin' Down",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/05_Blood_Red_And_Goin'_Down_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blood Red And Goin' Down (Album Version)",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/06_Blood_Red_And_Goin'_Down_(Album_Version)_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can’t Hide Red",
+      "artist": "Florida Georgia Line feat. Jason Aldean",
+      "has_synced": true,
+      "path": "select/07_Can’t_Hide_Red_Florida_Georgia_Line_feat._Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can’t Hide Red",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/08_Can’t_Hide_Red_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can’t Hide Red",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/09_Can’t_Hide_Red_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/10_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American) (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/11_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American) (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forever and for Always (Red Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/13_Forever_and_for_Always_(Red_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I See Red",
+      "artist": "Everybody Loves an Outlaw",
+      "has_synced": false,
+      "path": "select/14_I_See_Red_Everybody_Loves_an_Outlaw.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Little Red Rodeo",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/15_Little_Red_Rodeo_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ol' Red",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/16_Ol'_Red_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ol' Red (Album Version)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/17_Ol'_Red_(Album_Version)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RED",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/pl_01_RED_SiM.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Red",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/localdb_01_Red_SiM.txt",
+      "repo_name": "BuQ82GNIpnA"
+    }
+  ]
+}
